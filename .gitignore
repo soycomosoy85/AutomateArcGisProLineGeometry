@@ -1,0 +1,15 @@
+# Local GIS inputs, projects, and generated artifacts
+*.gdb/
+*.aprx
+*.lyrx
+*.lock
+Aprx/
+Gdb/
+Xls/
+# Python and ArcGIS-generated metadata
+__pycache__/
+*.py[cod]
+*.pyt.xml
+# Local development settings
+.vscode/
+.idea/
